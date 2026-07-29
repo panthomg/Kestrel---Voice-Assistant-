@@ -1,3 +1,5 @@
+<img width="2323" height="537" alt="Untitled Document 2 (1) (1) (4) (1)" src="https://github.com/user-attachments/assets/a9383023-fabf-422e-8fe0-56dc796bec75" />
+
 # ● Kestrel — Wake-Word Voice Assistant
 
 Kestrel is a lightweight voice assistant for your desktop. It listens continuously and locally for a wake word ("Hey Kestrel"), then records your question, transcribes it, sends it to an LLM for a short spoken-style answer, and speaks the response back to you.
